@@ -1,4 +1,4 @@
-# political-research
+# Political Research
 
 This project is a collaboration between Professor James Katz, college of communication and BU statistics department. 
 
